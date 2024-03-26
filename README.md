@@ -15,8 +15,5 @@ Bem-vindo ao meu portfólio! Este repositório contém uma coleção dos meus tr
 
 #Contato:
 
-Se você tiver alguma pergunta, sugestão ou oportunidade de colaboração, sinta-se à vontade para entrar em contato comigo por meu e-mail felipereisrocha@gmail.com !.
+Se você tiver alguma pergunta, sugestão ou oportunidade de colaboração, sinta-se à vontade para entrar em contato comigo por meu e-mail felipereisrocha@gmail.com !
 
-#Agradecimentos:
-
-Agradeço por visitar meu portfólio e espero que você encontre algo interessante por aqui!
